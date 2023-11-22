@@ -1,0 +1,21 @@
+Exception: Access Violation (code 0xc0000005) at address 5D45215D in thread 35D0
+Module: GDI42.dll
+Logical Address: 0001:0000115D
+
+0019F8F4 5D45215D TextOutA+A0D [(Unknown File Name)(0)+0x00000000]
+Params: 0019FA98 00000070 00000021 0A8F9ECC
+
+
+EAX:00000000 EBX:5D790468 ECX:5D790468 EDX:0019F8D0 ESI:00B774E0 EDI:FFFFFFFF
+EIP:5D45215D ESP:0019F808  EBP:0019F8F4
+CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
+Flags:00010202
+
+Windows Ver: NT 6.2  Build 9200
+DDraw Ver: 
+DSound Ver: 
+
+Product: PlantsVsZombies
+Version: 1.0.0.1051
+Time Loaded: 00:00:29
+Fullscreen: ÊÇ
